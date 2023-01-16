@@ -1,4 +1,4 @@
-# ToughtsOnSecurity
+# Toughts On Security
 
 Collection of important blog posts with thoughts about cyber security, skills and the way of thinking.
 
