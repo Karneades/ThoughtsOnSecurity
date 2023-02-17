@@ -11,6 +11,7 @@ Collection of important blog posts with thoughts about cyber security, skills an
   * https://windowsir.blogspot.com/2021/08/tips-for-dfir-analysts.html
   * https://windowsir.blogspot.com/2021/09/imposter-syndrome.html
   * https://windowsir.blogspot.com/2020/07/on-artifact-constellations-and-toolmarks.html
+  * https://windowsir.blogspot.com/2023/02/validating-tools.html
 * https://www.leeholmes.com/list-of-infosec-cognitive-biases/
 * https://www.microsoft.com/security/blog/2022/01/20/build-a-stronger-cybersecurity-team-through-diversity-and-training
 * https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/
