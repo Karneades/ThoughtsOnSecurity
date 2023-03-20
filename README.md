@@ -4,6 +4,7 @@ Collection of important blog posts with thoughts about cyber security, skills an
 
 * https://chrissanders.org/2021/12/dissertation/
 * https://windowsir.blogspot.com/
+  * https://windowsir.blogspot.com/2019/05/deep-knowledge-and-pursuit-thereof.html
   * https://windowsir.blogspot.com/2020/07/on-artifact-constellations-and-toolmarks.html
   * https://windowsir.blogspot.com/2021/08/tips-for-dfir-analysts.html
   * https://windowsir.blogspot.com/2021/09/imposter-syndrome.html
